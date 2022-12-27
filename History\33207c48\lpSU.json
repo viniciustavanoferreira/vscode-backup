@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Shades of Purple",
+    "window.zoomLevel": 0,
+    "powermode.enabled": true,
+    "powermode.presets": "exploding-rift",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.semanticHighlighting.enabled": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "terminal.integrated.shell.windows": "C:\\Users\\4022707\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "git.ignoreWindowsGit27Warning": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": true
+    },
+    "workbench.iconTheme": "icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "mblode.pretty-formatter"
+    },
+}

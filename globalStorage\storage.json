@@ -1,0 +1,63 @@
+{
+    "telemetry.machineId": "02d77f60fd4318c00be0a15b1f0f9c64ef92a41813a42f818560cb1afb0126f3",
+    "windowControlHeight": 30,
+    "theme": "vs-dark",
+    "themeBackground": "#2d2b55",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#a599e9",
+            "background": "#2d2b55",
+            "editorBackground": "#2d2b55",
+            "titleBarBackground": "#1e1e3f",
+            "activityBarBackground": "#28284e",
+            "sideBarBackground": "#222244",
+            "statusBarBackground": "#1e1e3f",
+            "statusBarNoFolderBackground": "#1e1e3f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "C:\\Users\\4022707\\AppData\\Roaming\\Code\\Backups\\1668002785924",
+            "uiState": {
+                "mode": 0,
+                "x": 171,
+                "y": 0,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///v%3A/Riachuelo/Projects/Java/FULLCOMMERCE/fellipe/log-fullcommerce-asn-ms"
+            },
+            {
+                "folderUri": "file:///v%3A/Riachuelo/Projects/Java/FULLCOMMERCE/log-fullcommerce-do-ms"
+            },
+            {
+                "folderUri": "file:///v%3A/Riachuelo/GitLab/sat-geradoretiqueta"
+            },
+            {
+                "folderUri": "file:///v%3A/Riachuelo/Projects/Java/FULLCOMMERCE/jorge/log-fullcommerce-do-ms"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1668002785924"
+            }
+        ]
+    }
+}
